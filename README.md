@@ -1,1 +1,1 @@
-#### Simple memory allocator based on a [tutorial](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory) with additional support for block splitting, block coalescing and improved efficiency through a doubly-linked list.
+Simple memory allocator based on a [tutorial](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory) with additional support for block splitting, block coalescing and improved efficiency through a doubly-linked list.
